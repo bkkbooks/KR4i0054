@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4i0054/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部九
+  hash: sha256:2915ca2c42004a91a126dfeea4ee146e90e0888298fa16b14df859e534a1c6b4
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4i0054_WYG_000-1a, image: WYG1482/WYG1482-0509a.png}
+body:
+  text: 秇圃擷餘詩文評類提要臣等謹案秇圃擷餘一巻明王世懋撰世懋有閩部疏已著録是編雜論詩格大㫖宗其兄世貞之說而成書在藝苑巵言之後已稍覺摹古之流弊故雖盛推何李而一則曰我朝越宋繼唐正以豪傑數輩得使事三昧第恐數十年後必有厭而掃除者則其濫觴末弩為之也一則曰李于鱗七律俊傑響亮余兄推轂之海内為詩者爭事剽竊紛紛刻鶩至使人厭一則曰嘗謂作詩初命一題神情不屬便有一種供給應付之語畏難却思即以充數能破此一闗沉思忽至種種真相見矣一則曰徐昌穀高子業皆巧於用短徐能以高韻勝高能以深情勝更千百年李何尚有廢興二君必無絶響皆能不為黨同伐異之言其論鄭繼之亦平允未可與七子夸談同類而觀也乾隆四十六年四月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:2ea3b1db27a4f7ea38d54f02992380a6b0a3e96848bc9388628186aba37b7484
+metadata:
+  title: 秇圃擷餘
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:46:13.729630'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4i0054/KR4i0054_000.txt
+hash: sha256:970e0fdb1febc6a301caf229e629eddf79118106ffe38657c82748be300b4581
