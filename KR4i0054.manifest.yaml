@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR4i0054_000.yaml, hash: 'sha256:9a3bae9750ae4715c74316586548a4b74ccd8ec4cb60797568aaa33580d393fa'}
   - {seq: 1, filename: KR4i0054_001.yaml, hash: 'sha256:b9a5bff9ad50aac122ca5743629545c29d0fea757841f1e6f939d7abee64367d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0054_000.markers.yaml, hash: 'sha256:f5e20c1120dd39770e3d0d5e47b9b9855bf0c929520944312bff78ba9907dc5f'}
+  - {seq: 0, role: markers, filename: assets/KR4i0054_000.markers.yaml, hash: 'sha256:4ad98c10cef5f7fae9a3d84f39bd98278da357a73cb1d3dd947a2a9c2371e7b6'}
   - {seq: 1, role: markers, filename: assets/KR4i0054_001.markers.yaml, hash: 'sha256:e28c000aed40d082bae8d53925b992078e523b69f7c072775b4290b7248dbd89'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 秇圃擷餘
   type: section
   level: 1
-hash: sha256:22aa0e136d1105e68e6dd5e769c63974a8fa6fdd8d302edeb3abd6b3144e1ac8
+hash: sha256:fef0dea2eca16980b4ce522a98ebb67b2d42306e6e0daaa30766c0af5d435a24
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
